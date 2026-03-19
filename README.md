@@ -1,6 +1,5 @@
 # Welcome to Abhishek Workspace!
 
-This is README file about the Project VISION-AI.
 
 VISION-AI stands for Virtual Intelligent System Introduced with Optimized Navigation.
 
